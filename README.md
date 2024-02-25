@@ -81,7 +81,7 @@ Looking ahead, the project will require deployment, likely through platforms suc
 
 - **Event Handling**: Consistent event handling, such as `onClick` events on buttons invoking corresponding functions (`handleReschedule`, `handleFollowUp`, `handleCancel`).
 
-## Screenshots
+<!--## Screenshots-->
 <!--!![Ss](https://media.discordapp.net/attachments/1157430089181577294/1185790492907147294/291025852-776ac070-49e7-49c4-a902-5675fdad892a.png?ex=6590e474&is=657e6f74&hm=44148d95a9b5c993a3b44d0361c6a9ded96125846910e506d24739b8a9e98e2f&=&format=webp&quality=lossless&width=1155&height=591)-->
 
 <!--!![Ss](https://media.discordapp.net/attachments/1157430089181577294/1185790441891831838/291025909-9941ab53-9120-47e0-8301-efdde95d22a4.png?ex=6590e468&is=657e6f68&hm=dc9eb2715fc13eea014e2560357a8dae7efdff1df6468af6db3573b8b3ad6f85&=&format=webp&quality=lossless&width=1082&height=591)-->
