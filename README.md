@@ -1,6 +1,6 @@
 # Health Space (Virtual Clinic)
 
-![App Screenshot](https://media.discordapp.net/attachments/1157430089181577291/1159866558227693578/acl_clinic_6.png?ex=658edde8&is=657c68e8&hm=0cc036be1a1d14a84bf64aed1a7287c39bd700488a84e6a29f3b483e6d61aebc&=&format=webp&quality=lossless&width=625&height=625)
+<!--![App Screenshot](https://media.discordapp.net/attachments/1157430089181577291/1159866558227693578/acl_clinic_6.png?ex=658edde8&is=657c68e8&hm=0cc036be1a1d14a84bf64aed1a7287c39bd700488a84e6a29f3b483e6d61aebc&=&format=webp&quality=lossless&width=625&height=625)-->
 
 The aim of this project is to design and implement a comprehensive healthcare platform that caters to the needs of patients, doctors, and administrators. The platform's primary goal is to facilitate seamless interactions, streamline medical processes, and enhance the overall healthcare experience for users. The platform will be feature-rich, accommodating a wide array of functionalities, and will be developed iteratively across multiple sprints.
 
@@ -82,9 +82,9 @@ Looking ahead, the project will require deployment, likely through platforms suc
 - **Event Handling**: Consistent event handling, such as `onClick` events on buttons invoking corresponding functions (`handleReschedule`, `handleFollowUp`, `handleCancel`).
 
 ## Screenshots
-![Ss](https://media.discordapp.net/attachments/1157430089181577294/1185790492907147294/291025852-776ac070-49e7-49c4-a902-5675fdad892a.png?ex=6590e474&is=657e6f74&hm=44148d95a9b5c993a3b44d0361c6a9ded96125846910e506d24739b8a9e98e2f&=&format=webp&quality=lossless&width=1155&height=591)
+<!--!![Ss](https://media.discordapp.net/attachments/1157430089181577294/1185790492907147294/291025852-776ac070-49e7-49c4-a902-5675fdad892a.png?ex=6590e474&is=657e6f74&hm=44148d95a9b5c993a3b44d0361c6a9ded96125846910e506d24739b8a9e98e2f&=&format=webp&quality=lossless&width=1155&height=591)-->
 
-![Ss](https://media.discordapp.net/attachments/1157430089181577294/1185790441891831838/291025909-9941ab53-9120-47e0-8301-efdde95d22a4.png?ex=6590e468&is=657e6f68&hm=dc9eb2715fc13eea014e2560357a8dae7efdff1df6468af6db3573b8b3ad6f85&=&format=webp&quality=lossless&width=1082&height=591)
+<!--!![Ss](https://media.discordapp.net/attachments/1157430089181577294/1185790441891831838/291025909-9941ab53-9120-47e0-8301-efdde95d22a4.png?ex=6590e468&is=657e6f68&hm=dc9eb2715fc13eea014e2560357a8dae7efdff1df6468af6db3573b8b3ad6f85&=&format=webp&quality=lossless&width=1082&height=591)-->
 
 # further documentation : 
 (https://drive.google.com/drive/folders/1HfreTuMMeXtqHv4OUfgK04wQMY8--XyO?usp=drive_link))
@@ -137,10 +137,10 @@ Looking ahead, the project will require deployment, likely through platforms suc
 
 ## Code Examples
 Video chat API between doctor and patient, doctor is waiting in the room for patient 
-![Ss](https://media.discordapp.net/attachments/1157430089181577294/1185790713787596840/291025092-c50bc4d3-98aa-4f6f-b505-cd71fa49be08.png?ex=6590e4a9&is=657e6fa9&hm=6a74cc79317bedc445c65dc25e517b349c1a49066cda340cec4038bb4bc7d43d&=&format=webp&quality=lossless&width=935&height=591)
+<!--!!![Ss](https://media.discordapp.net/attachments/1157430089181577294/1185790713787596840/291025092-c50bc4d3-98aa-4f6f-b505-cd71fa49be08.png?ex=6590e4a9&is=657e6fa9&hm=6a74cc79317bedc445c65dc25e517b349c1a49066cda340cec4038bb4bc7d43d&=&format=webp&quality=lossless&width=935&height=591)-->
 
 The patient uses a family member through their email to link with them 
-![Ss](https://media.discordapp.net/attachments/1157430089181577294/1185790637962969138/291025060-4ee4761c-7300-4daf-b5c4-b7e6b582beff.png?ex=6590e497&is=657e6f97&hm=6ecace2e8a0ba4b9c0cd7787f8e32708dbd9ee92efb93e3010788f70a6ee54c7&=&format=webp&quality=lossless&width=980&height=591)
+<!--!!![Ss](https://media.discordapp.net/attachments/1157430089181577294/1185790637962969138/291025060-4ee4761c-7300-4daf-b5c4-b7e6b582beff.png?ex=6590e497&is=657e6f97&hm=6ecace2e8a0ba4b9c0cd7787f8e32708dbd9ee92efb93e3010788f70a6ee54c7&=&format=webp&quality=lossless&width=980&height=591)-->
 
 # further documentation
  (https://drive.google.com/drive/folders/1HfreTuMMeXtqHv4OUfgK04wQMY8--XyO?usp=drive_link)
@@ -232,13 +232,13 @@ To ensure the proper functioning of this project, you can perform various tests 
   - Before running the tests, make sure you have [Postman](https://www.postman.com/downloads/) installed on your machine.
 
 delete medicine route testing 
-![Ss](https://media.discordapp.net/attachments/1157430089181577294/1185790821623148564/291024763-521ad3c4-33b4-4342-88bb-510d1d9d51af.png?ex=6590e4c2&is=657e6fc2&hm=f0d68ab5d31b80bfbd880e7fc7a954a235c58ee41fcf5af4aa787c4962368db4&=&format=webp&quality=lossless&width=1050&height=591)
+<!--!!![Ss](https://media.discordapp.net/attachments/1157430089181577294/1185790821623148564/291024763-521ad3c4-33b4-4342-88bb-510d1d9d51af.png?ex=6590e4c2&is=657e6fc2&hm=f0d68ab5d31b80bfbd880e7fc7a954a235c58ee41fcf5af4aa787c4962368db4&=&format=webp&quality=lossless&width=1050&height=591)-->
 
 doctor (getMyPatients) route testing
-![Ss](https://media.discordapp.net/attachments/1157430089181577294/1185790791206064146/291024122-83776f1f-75a2-4125-92ea-45b4496e578f.png?ex=6590e4bb&is=657e6fbb&hm=facdfa92e51d646da1d856414adb1a755eab50bd3030461514d165e4ccb6233c&=&format=webp&quality=lossless&width=1052&height=591)
+<!--!!![Ss](https://media.discordapp.net/attachments/1157430089181577294/1185790791206064146/291024122-83776f1f-75a2-4125-92ea-45b4496e578f.png?ex=6590e4bb&is=657e6fbb&hm=facdfa92e51d646da1d856414adb1a755eab50bd3030461514d165e4ccb6233c&=&format=webp&quality=lossless&width=1052&height=591)-->
 
 as a patient (linkFamilyMember) route testing
-![Ss](https://media.discordapp.net/attachments/1157430089181577294/1185790757060222976/291024131-d15d22ee-0eb0-4b23-9847-c1b129376a2d.png?ex=6590e4b3&is=657e6fb3&hm=10daca3b26d0d133ba61e88ae9585484b9d11d315ce2492fea72ca344db3068e&=&format=webp&quality=lossless&width=1050&height=591)
+<!--!!![Ss](https://media.discordapp.net/attachments/1157430089181577294/1185790757060222976/291024131-d15d22ee-0eb0-4b23-9847-c1b129376a2d.png?ex=6590e4b3&is=657e6fb3&hm=10daca3b26d0d133ba61e88ae9585484b9d11d315ce2492fea72ca344db3068e&=&format=webp&quality=lossless&width=1050&height=591)-->
 
 ## Contribute
 We welcome contributions from the community! If you'd like to contribute to the development of this project, follow these guidelines:
